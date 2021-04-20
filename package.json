@@ -1,0 +1,15 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "A trillo app",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Maurice",
+  "license": "ISC"
+}
